@@ -1,16 +1,31 @@
 [
   {
     "folder": "09032025",
-    "images": [
-      "Hiseeu_Solar_Camera_Security_Outdoor.png",
-      "SAMSUNG_SamsungGalaxyS25Ultra.png"
+    "products": [
+	{
+	"image": "Hiseeu_Solar_Camera_Security_Outdoor.png",
+	"link":"www.exemple.it"
+	},
+      
+	{
+	"image": "SAMSUNG_SamsungGalaxyS25Ultra.png",
+	"link":"www.exemple.it"
+	}
     ]
+
   },
   {
     "folder": "10032025",
-    "images": [
-      "Hiseeu_Solar_Camera_Security_Outdoor.png",
-      "SAMSUNG_SamsungGalaxyS25Ultra.png"
+    "products": [
+	{
+	"image": "Hiseeu_Solar_Camera_Security_Outdoor.png",
+	"link":"www.exemple.it"
+	},
+      
+	{
+	"image": "SAMSUNG_SamsungGalaxyS25Ultra.png",
+	"link":"www.exemple.it"
+	}
     ]
   }
 ]
