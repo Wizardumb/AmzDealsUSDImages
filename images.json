@@ -1,31 +1,32 @@
 [
   {
-    "folder": "09032025",
+    "folder": "12032025",
     "products": [
 	{
-	"image": "Hiseeu_Solar_Camera_Security_Outdoor.png",
-	"link":"www.exemple.it"
-	},
-      
-	{
 	"image": "SAMSUNG_SamsungGalaxyS25Ultra.png",
-	"link":"www.exemple.it"
+	"link":"https://amzn.to/3R395rG"
+	},
+	{
+	"image": "SAMSUNG_SamsungGalaxyS25UltraTitaniumGray.png",
+	"link":"https://amzn.to/4iksyQH"
+	},
+	{
+	"image": "SAMSUNG_SolidStateHardDrive.png",
+	"link":"https://amzn.to/4hwnPKp"
+	},
+	{
+	"image": "LEVOIT.png",
+	"link":"https://amzn.to/3FghkxZ"
+	},
+	{
+	"image": "TPLINKDeco.png",
+	"link":"https://amzn.to/4hpAgrp"
+	},
+	{
+	"image": "Etekcity.png",
+	"link":"https://amzn.to/3R2MrQe"
 	}
     ]
 
-  },
-  {
-    "folder": "10032025",
-    "products": [
-	{
-	"image": "Hiseeu_Solar_Camera_Security_Outdoor.png",
-	"link":"www.exemple.it"
-	},
-      
-	{
-	"image": "SAMSUNG_SamsungGalaxyS25Ultra.png",
-	"link":"www.exemple.it"
-	}
-    ]
   }
 ]
