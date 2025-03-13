@@ -3,6 +3,35 @@
     "folder": "03122025",
     "products": [
 	{
+	"image": "61osprA0WnL._AC_SL1205_.png",
+	"link":"https://amzn.to/424eoxm"
+	},
+	{
+	"image": "71Y2c+ELLcL._AC_SL1500_.png",
+	"link":"https://amzn.to/41MLjVW"
+	},
+	{
+	"image": "71E4FWs0URL._AC_SL1500_.png",
+	"link":"https://amzn.to/3XQlIKq"
+	},
+	{
+	"image": "712ld4SU0zL._AC_SL1500_.png",
+	"link":"https://amzn.to/3FE8qui"
+	},
+	{
+	"image": "7127fDa3l2L._AC_SL1500_.png",
+	"link":"https://amzn.to/3Fr43Tj"
+	},
+	{
+	"image": "61d46oYQgdL._AC_SL1500_.png",
+	"link":"https://amzn.to/41PHgrN"
+	}
+    ]
+
+  },{
+    "folder": "03132025",
+    "products": [
+	{
 	"image": "SAMSUNG_SamsungGalaxyS25Ultra.png",
 	"link":"https://amzn.to/3R395rG"
 	},
@@ -29,4 +58,5 @@
     ]
 
   }
+
 ]
