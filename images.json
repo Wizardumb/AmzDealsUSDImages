@@ -1,5 +1,36 @@
 
-[{
+[
+{
+    "folder": "03192025",
+    "products": [
+	{
+	"image": "001.png",
+	"link":"https://amzn.to/4bXlwyU"
+	},
+	{
+	"image": "002.png",
+	"link":"https://amzn.to/4hgkoYo"
+	},
+	{
+	"image": "003.png",
+	"link":"https://amzn.to/3RgR2hR"
+	},
+	{
+	"image": "004.png",
+	"link":"https://amzn.to/3RipWXD"
+	},
+	{
+	"image": "005.png",
+	"link":"https://amzn.to/42dat1f"
+	},
+	{
+	"image": "006.png",
+	"link":"https://amzn.to/3E29ec1"
+	}
+    ]
+
+  },
+{
     "folder": "03172025",
     "products": [
 	{
